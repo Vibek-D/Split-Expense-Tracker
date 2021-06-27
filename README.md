@@ -1,4 +1,5 @@
 Clone the Github repository and run command 'npm install' then after all the dependencies have been installed run command 'npm test' to run the application
+
 API endpoint is 'http://localhost:3000/split'
 Input format in the body of the API is a raw JSON list of objects like below
 
