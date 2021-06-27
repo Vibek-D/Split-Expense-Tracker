@@ -1,6 +1,6 @@
 Input format is a list of objects like below
 
- [
+ **[
     {
         "a":{
             "expense":300,
@@ -38,6 +38,6 @@ Input format is a list of objects like below
         }
     }
 ]
-
+**
 
 Output format is a CSV file
